@@ -8,6 +8,7 @@ const Shoes = () => {
 
     return (
         <div>
+            <hr />
             <h2>This is Shoes Component</h2>
             <p>Total Multiply: {totalMultiply}</p>
         </div>
